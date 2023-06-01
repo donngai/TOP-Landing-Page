@@ -142,3 +142,38 @@ body {
     font-size: 24px;
     font-weight: bold;
 }
+
+/* Bot Section */
+.bot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 8px;
+    margin: 100px;
+    padding: 50px 150px;
+    gap: 30px;
+}
+
+.bot h4 {
+    margin: 0;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.bot p {
+    margin: 0;
+    font-size: 18px;
+    color: #F9FAF8
+}
+
+.bot button {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px 30px;
+    border-radius: 8px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-color: #F9FAF8;
+    border-style:solid;
+}
